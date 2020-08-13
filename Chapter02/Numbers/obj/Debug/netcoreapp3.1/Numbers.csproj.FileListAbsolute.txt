@@ -1,0 +1,13 @@
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
