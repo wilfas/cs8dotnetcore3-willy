@@ -1,0 +1,13 @@
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csprojAssemblyReference.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfoInputs.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.AssemblyInfo.cs
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.exe
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.deps.json
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.json
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.runtimeconfig.dev.json
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\bin\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.dll
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.pdb
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\Chapter02\Formatting\obj\Debug\netcoreapp3.1\Formatting.genruntimeconfig.cache
