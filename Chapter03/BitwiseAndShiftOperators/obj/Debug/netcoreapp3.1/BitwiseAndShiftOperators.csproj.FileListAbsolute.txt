@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.genruntimeconfig.cache
