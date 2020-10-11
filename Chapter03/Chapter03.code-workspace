@@ -23,6 +23,15 @@
 		},
 		{
 			"path": "CheckingForOverflow"
+		},
+		{
+			"path": "Exercise3.1"
+		},
+		{
+			"path": "Exercise02"
+		},
+		{
+			"path": "Exercise03"
 		}
 	]
 }
