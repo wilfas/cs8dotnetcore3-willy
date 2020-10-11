@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\bin\Debug\netcoreapp3.1\Exercise05.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter03\Exercise05\obj\Debug\netcoreapp3.1\Exercise05.genruntimeconfig.cache
