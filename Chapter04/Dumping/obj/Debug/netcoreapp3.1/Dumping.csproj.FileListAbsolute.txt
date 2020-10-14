@@ -1,0 +1,16 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\bin\Debug\netcoreapp3.1\SharpPad.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CopyComplete
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.genruntimeconfig.cache

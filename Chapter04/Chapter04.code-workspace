@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "Debugging"
+		},
+		{
+			"path": "Dumping"
+		},
+		{
+			"path": "Instrumenting"
 		}
 	]
 }

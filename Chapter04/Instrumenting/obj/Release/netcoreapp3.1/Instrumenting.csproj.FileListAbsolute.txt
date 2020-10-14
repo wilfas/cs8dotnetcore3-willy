@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\bin\Release\netcoreapp3.1\Instrumenting.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter04\Instrumenting\obj\Release\netcoreapp3.1\Instrumenting.genruntimeconfig.cache
