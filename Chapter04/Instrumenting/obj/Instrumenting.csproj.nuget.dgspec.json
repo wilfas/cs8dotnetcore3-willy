@@ -51,7 +51,7 @@
             },
             "Microsoft.Extensions.Configuration.FileExtensions": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[3.1.9, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",

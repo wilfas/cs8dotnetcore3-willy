@@ -257,7 +257,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.Extensions.Configuration >= 3.1.9",
       "Microsoft.Extensions.Configuration.Binder >= 3.1.9",
-      "Microsoft.Extensions.Configuration.FileExtensions >= *",
+      "Microsoft.Extensions.Configuration.FileExtensions >= 3.1.9",
       "Microsoft.Extensions.Configuration.Json >= 3.1.9"
     ]
   },
@@ -312,7 +312,7 @@
           },
           "Microsoft.Extensions.Configuration.FileExtensions": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[3.1.9, )"
           },
           "Microsoft.Extensions.Configuration.Json": {
             "target": "Package",
