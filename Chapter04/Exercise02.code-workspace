@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Exercise02Lib"
+		},
+		{
+			"path": "Exercise02"
+		},
+		{
+			"path": "Exercise02UnitTests"
+		}
+	]
+}
