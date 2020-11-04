@@ -1,0 +1,17 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\AssembliesAndNamespaces.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\AssembliesAndNamespaces.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\AssembliesAndNamespaces.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\AssembliesAndNamespaces.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\AssembliesAndNamespaces.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\AssembliesAndNamespaces.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\SharedLibrary.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.csproj.CopyComplete
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\obj\Debug\netcoreapp3.1\AssembliesAndNamespaces.genruntimeconfig.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter07\AssembliesAndNamespaces\bin\Debug\netcoreapp3.1\DialectSoftware.Collections.Matrix.dll

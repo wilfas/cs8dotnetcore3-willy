@@ -1,0 +1,184 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DialectSoftware.Collections.Matrix/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/DialectSoftware.Collections.Matrix.dll": {}
+        },
+        "runtime": {
+          "lib/DialectSoftware.Collections.Matrix.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Packt.CS8.SharedLibraryWilfas/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SharedLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharedLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DialectSoftware.Collections.Matrix/1.0.0": {
+      "sha512": "O0//+wnBGhEn+dMj60Cfg0DhlR/IrCFvCI4Bqau5ygQVOnxApV5O2NqRQtCYNUVERW+VrNmGiYZHsU/zrV8eSQ==",
+      "type": "package",
+      "path": "dialectsoftware.collections.matrix/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dialectsoftware.collections.matrix.1.0.0.nupkg.sha512",
+        "dialectsoftware.collections.matrix.nuspec",
+        "lib/DialectSoftware.Collections.Matrix.dll"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Packt.CS8.SharedLibraryWilfas/1.0.0": {
+      "sha512": "FjDGZ6pV7Usfuk+zr9lK/fCmcEPzVKD50YTglcYyMux2LovJ0DIbYEAXbKBSOQsJPv2kLH6zxUrzHSdyrTw3rw==",
+      "type": "package",
+      "path": "packt.cs8.sharedlibrarywilfas/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SharedLibrary.dll",
+        "packt-cs8-sharedlibrary.png",
+        "packt.cs8.sharedlibrarywilfas.1.0.0.nupkg.sha512",
+        "packt.cs8.sharedlibrarywilfas.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Packt.CS8.SharedLibraryWilfas >= 1.0.0",
+      "dialectsoftware.collections.matrix >= 1.0.0",
+      "newtonsoft.json >= 12.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wilfa\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\workspace\\cs8dotnetcore3-willy\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+      "projectName": "AssembliesAndNamespaces",
+      "projectPath": "D:\\workspace\\cs8dotnetcore3-willy\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+      "packagesPath": "C:\\Users\\wilfa\\.nuget\\packages\\",
+      "outputPath": "D:\\workspace\\cs8dotnetcore3-willy\\Chapter07\\AssembliesAndNamespaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\wilfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Packt.CS8.SharedLibraryWilfas": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "dialectsoftware.collections.matrix": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "newtonsoft.json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"DialectSoftware.Collections.Matrix 1.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "DialectSoftware.Collections.Matrix",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
