@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.genruntimeconfig.cache

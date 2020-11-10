@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\bin\Debug\netcoreapp3.1\WorkingWithRanges.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithRanges\obj\Debug\netcoreapp3.1\WorkingWithRanges.genruntimeconfig.cache

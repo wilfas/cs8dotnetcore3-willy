@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.genruntimeconfig.cache

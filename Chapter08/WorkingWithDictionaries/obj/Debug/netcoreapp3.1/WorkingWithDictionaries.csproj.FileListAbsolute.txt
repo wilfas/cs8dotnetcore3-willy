@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\bin\Debug\netcoreapp3.1\WorkingWithDictionaries.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithDictionaries\obj\Debug\netcoreapp3.1\WorkingWithDictionaries.genruntimeconfig.cache

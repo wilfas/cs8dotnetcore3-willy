@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\bin\Debug\netcoreapp3.1\WorkingWithText.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter08\WorkingWithText\obj\Debug\netcoreapp3.1\WorkingWithText.genruntimeconfig.cache
