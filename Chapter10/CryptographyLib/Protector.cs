@@ -15,6 +15,7 @@ namespace Packt.Shared
         private static readonly int iterations = 2000;
 
         private static Dictionary<string, User> Users = new Dictionary<string, User>();
+
         public static string Encrypt(string plainText, string password)
         {
             byte[] encryptedBytes;
@@ -55,6 +56,53 @@ namespace Packt.Shared
             }
 
             return Encoding.Unicode.GetString(plainBytes);
+        }
+
+        public static User Register(string username, string password)
+        {
+            // generate a random salt
+            var rng = RandomNumberGenerator.Create();
+            var saltBytes= new byte[16];
+            rng.GetBytes(saltBytes);
+            var saltText = Convert.ToBase64String(saltBytes);
+
+            // generate the salted and hashed password
+            var saltedhashedPassword = SaltAndHashPassword(password, saltText);
+
+            var user = new User
+            {
+                Name = username, Salt = saltText,
+                SaltedHashedPassword = saltedhashedPassword
+            };
+            Users.Add(user.Name, user);
+
+            return user;
+        }
+
+        public static bool CheckPassword(string username, string password)
+        {
+            if (!Users.ContainsKey(username))
+            {
+                return false;
+            }
+            var user = Users[username];
+
+            return CheckPassword(username, password, user.Salt, user.SaltedHashedPassword);
+        }
+
+        public static bool CheckPassword(string username, string password, string salt, string hashedPassword)
+        {
+            // re-generate the salted and hashed password
+            var saltedhashedPassword = SaltAndHashPassword(password, salt);
+
+            return (saltedhashedPassword == hashedPassword);
+        }
+
+        private static string SaltAndHashPassword(string password, string salt)
+        {
+            var sha = SHA256.Create();
+            var saltedPassword = password + salt;
+            return Convert.ToBase64String(sha.ComputeHash(Encoding.Unicode.GetBytes(saltedPassword)));
         }
     }
 }
