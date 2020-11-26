@@ -1,0 +1,17 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise0902.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise0902.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise0902.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise0902.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise0902.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise0902.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\obj\Debug\netcoreapp3.1\Exercise0902.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\obj\Debug\netcoreapp3.1\Exercise0902.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\obj\Debug\netcoreapp3.1\Exercise0902.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\obj\Debug\netcoreapp3.1\Exercise0902.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\obj\Debug\netcoreapp3.1\Exercise0902.csproj.CopyComplete
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\obj\Debug\netcoreapp3.1\Exercise0902.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\obj\Debug\netcoreapp3.1\Exercise0902.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\Exercise02\obj\Debug\netcoreapp3.1\Exercise0902.genruntimeconfig.cache

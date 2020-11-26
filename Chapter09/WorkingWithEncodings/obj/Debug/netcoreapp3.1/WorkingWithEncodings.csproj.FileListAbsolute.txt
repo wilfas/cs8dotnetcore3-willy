@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\bin\Debug\netcoreapp3.1\WorkingWithEncodings.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\bin\Debug\netcoreapp3.1\WorkingWithEncodings.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\bin\Debug\netcoreapp3.1\WorkingWithEncodings.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\bin\Debug\netcoreapp3.1\WorkingWithEncodings.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\bin\Debug\netcoreapp3.1\WorkingWithEncodings.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\bin\Debug\netcoreapp3.1\WorkingWithEncodings.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\obj\Debug\netcoreapp3.1\WorkingWithEncodings.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\obj\Debug\netcoreapp3.1\WorkingWithEncodings.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\obj\Debug\netcoreapp3.1\WorkingWithEncodings.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\obj\Debug\netcoreapp3.1\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\obj\Debug\netcoreapp3.1\WorkingWithEncodings.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\obj\Debug\netcoreapp3.1\WorkingWithEncodings.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithEncodings\obj\Debug\netcoreapp3.1\WorkingWithEncodings.genruntimeconfig.cache

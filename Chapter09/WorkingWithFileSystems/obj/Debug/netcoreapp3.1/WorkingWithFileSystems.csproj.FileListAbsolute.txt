@@ -1,0 +1,13 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.genruntimeconfig.cache

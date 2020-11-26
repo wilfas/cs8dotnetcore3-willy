@@ -1,0 +1,15 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\WorkingWithSerialization.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.genruntimeconfig.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter09\WorkingWithSerialization\obj\Debug\netcoreapp3.1\WorkingWithSerialization.csproj.CopyComplete
