@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wilfa\\.nuget\\packages\\": {},
+    "C:\\Users\\gcerezo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\cs8dotnetcore3-willy\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+      "projectUniqueName": "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
       "projectName": "CryptographyLib",
-      "projectPath": "D:\\workspace\\cs8dotnetcore3-willy\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
-      "packagesPath": "C:\\Users\\wilfa\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\cs8dotnetcore3-willy\\Chapter10\\CryptographyLib\\obj\\",
+      "projectPath": "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+      "packagesPath": "C:\\Users\\gcerezo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\Chapter10\\CryptographyLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wilfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gcerezo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -207,6 +207,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -218,6 +219,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -236,7 +238,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

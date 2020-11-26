@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "EncryptionApp"
+		},
+		{
+			"path": "HashingApp"
 		}
 	]
 }
