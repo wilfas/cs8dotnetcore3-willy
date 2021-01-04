@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercise03/1.0.0": {
+        "dependencies": {
+          "CryptographyLib": "1.0.0",
+          "Exercise02": "1.0.0"
+        },
+        "runtime": {
+          "Exercise03.dll": {}
+        }
+      },
+      "CryptographyLib/1.0.0": {
+        "runtime": {
+          "CryptographyLib.dll": {}
+        }
+      },
+      "Exercise02/1.0.0": {
+        "dependencies": {
+          "CryptographyLib": "1.0.0"
+        },
+        "runtime": {
+          "Exercise02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CryptographyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

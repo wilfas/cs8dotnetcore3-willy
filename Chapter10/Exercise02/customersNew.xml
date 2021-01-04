@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <name>Bob Smith</name>
+    <creditcard>v9M/Osl3LfM2VBodTQlWnUVi7HoPJURrftAUmKCfrm2XzoL2w81UD35k1b3tSBts</creditcard>
+    <password>ruB/j9zKVmQX/OP0VecSgVzBQPqTt9ma1neGMXwxdA0=</password>
+  </Customer>
+  <Customer>
+    <name>Guillermo Cerezo</name>
+    <creditcard>TLmYbs+ffyCXaoBmpZpSLxEBMr35v/IUWuV7ldS7LfNVm3/TBzqv8vYOXgTblqkO</creditcard>
+    <password>xb1k5XdWTXCaq+DdAB0hm2LW+rJ7xTUC2KBhEB6wjR0=</password>
+  </Customer>
+  <Customer>
+    <name>Pepito Perez</name>
+    <creditcard>JW3nGXYNy/rbtV5SEpFAwZgg3R0R64rNK1E/b/0fTpDj8tzb6FpUD6ya8vBw/Xcu</creditcard>
+    <password>NT2DDNo0cn0eAhUsiMd7Er6hEmnLLo38LggWg34aDxY=</password>
+  </Customer>
+</ArrayOfCustomer>

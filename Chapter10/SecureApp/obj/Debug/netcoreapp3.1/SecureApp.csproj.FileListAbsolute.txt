@@ -1,0 +1,16 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.csproj.CopyComplete
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.genruntimeconfig.cache

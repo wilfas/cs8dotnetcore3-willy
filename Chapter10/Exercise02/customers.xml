@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Customer>
+		<name>Bob Smith</name>
+		<creditcard>1234-5678-9012-3456</creditcard>
+		<password>Pa$$w0rd</password>
+	</Customer>
+	<Customer>
+		<name>Guillermo Cerezo</name>
+		<creditcard>0000-0000-0000-0000</creditcard>
+		<password>Pa$$w0rd</password>
+	</Customer>
+	<Customer>
+		<name>Pepito Perez</name>
+		<creditcard>1111-1111-1111-1111</creditcard>
+		<password>Pa$$w0rd</password>
+	</Customer>
+</ArrayOfCustomer>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QkiYfBl+w+GpPN4uIc0c1oD1Ky7V1kaGqDJnGYnrROY475FV0MI5ziNV24zJWoHMlt88gyVFilXO1fpNNZE6mA==",
+  "dgSpecHash": "1xdBdtSlpHP184qhYfq8ks/acf2QKDaQjeYiWYLXIwcg19Vv98kJbBFGt92B11TtksU5/CiFHwA8chOaQ67DRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+  "projectFilePath": "D:\\workspace\\cs8dotnetcore3-willy\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
