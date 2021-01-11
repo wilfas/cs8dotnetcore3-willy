@@ -46,3 +46,5 @@ D:\workspace\cs8dotnetcore3-willy\Chapter11\WorkingWithEFCore\obj\Debug\netcorea
 D:\workspace\cs8dotnetcore3-willy\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp3.1\WorkingWithEFCore.dll
 D:\workspace\cs8dotnetcore3-willy\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp3.1\WorkingWithEFCore.pdb
 D:\workspace\cs8dotnetcore3-willy\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp3.1\WorkingWithEFCore.genruntimeconfig.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter11\WorkingWithEFCore\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter11\WorkingWithEFCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
