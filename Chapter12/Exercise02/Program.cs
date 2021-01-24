@@ -6,10 +6,28 @@ namespace Exercise02
 {
     class Program
     {
-        static void CompaniesInCity(string city)
+        static void CompaniesInCity()
         {
             using (var db = new Northwind())
             {
+                var queryCities = db.Customers
+                    .Select(customer => new { City = customer.City })
+                    .Distinct()
+                    .ToArray();
+
+                int total = queryCities.Count();
+                for (int i = 0; i < total ; i++)
+                {
+                    Write($"{queryCities[i].City}");
+                    if (i < total - 1) {
+                        Write(", ");
+                    }
+                }
+                WriteLine();
+
+                Write("Enter the name of a city: ");
+                string city = ReadLine();
+
                 var query = db.Customers
                     .Where(customer => customer.City == city)
                     .OrderBy(customer => customer.CompanyName);
@@ -25,10 +43,7 @@ namespace Exercise02
 
         static void Main(string[] args)
         {
-            Write("Enter the name of a city: ");
-            string city = ReadLine();
-            CompaniesInCity(city);
-
+            CompaniesInCity();
         }
     }
 }
