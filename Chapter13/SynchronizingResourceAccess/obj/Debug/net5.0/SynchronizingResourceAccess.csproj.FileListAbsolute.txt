@@ -1,0 +1,16 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\ref\SynchronizingResourceAccess.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\ref\SynchronizingResourceAccess.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.genruntimeconfig.cache

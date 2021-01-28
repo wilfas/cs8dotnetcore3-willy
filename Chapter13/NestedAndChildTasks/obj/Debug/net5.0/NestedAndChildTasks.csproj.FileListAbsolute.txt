@@ -1,0 +1,16 @@
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.exe
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.deps.json
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.json
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.dev.json
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\ref\NestedAndChildTasks.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csprojAssemblyReference.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfo.cs
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\ref\NestedAndChildTasks.dll
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.pdb
+D:\workspace\cs8dotnetcore3-willy\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.genruntimeconfig.cache
