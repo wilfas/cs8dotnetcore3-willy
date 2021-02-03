@@ -11,30 +11,45 @@ namespace SynchronizingResourceAccess
         static Random r = new Random();
         static string Message; // a shared resource
         static object conch = new object();
+        static int Counter;
 
         static void MethodA()
         {
-            lock (conch)
+            try
             {
+                Monitor.TryEnter(conch, TimeSpan.FromSeconds(15));
+                
                 for (int i = 0; i < 5; i++)
                 {
                     Thread.Sleep(r.Next(2000));
                     Message += "A";
+                    Interlocked.Increment(ref Counter);
                     Write(".");
                 }
+            }
+            finally
+            {
+                Monitor.Exit(conch);
             }
         }
 
         static void MethodB()
         {
-            lock (conch)
+            try
             {
+                Monitor.TryEnter(conch, TimeSpan.FromSeconds(15));
+
                 for (int i = 0; i < 5; i++)
                 {
                     Thread.Sleep(r.Next(2000));
                     Message += "B";
+                    Interlocked.Increment(ref Counter);
                     Write(".");
                 }
+            }
+            finally
+            {
+                Monitor.Exit(conch);
             }
         }
         static void Main(string[] args)
@@ -50,6 +65,8 @@ namespace SynchronizingResourceAccess
             WriteLine();
             WriteLine($"Results: {Message}.");
             WriteLine($"{watch.ElapsedMilliseconds:#,##0} elapsed milliseconds.");
+
+            WriteLine($"{Counter} string modifications.");
         }
     }
 }
