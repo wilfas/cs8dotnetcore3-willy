@@ -7,3 +7,12 @@ D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\n
 D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
 D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
 D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
