@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gToIRi3FiMLG+hUxtuzkipUwqY0xUGmYeNOHtCKtRUiP7//tVNkQjpww6RuHvkryiywqPZllnMrO+QH8hGTL2A==",
+  "dgSpecHash": "VJz7MxB4+nhENY/hWBn7vUs9DAe79NLhEOzictAIRAVtNEGL3I+YhcgkXvoo0NTc94HfaDuhW2/J0VaqZEmF+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+  "projectFilePath": "D:\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wilfa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []

@@ -125,3 +125,8 @@ C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\obj\D
 C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\obj\Debug\netcoreapp3.0\NorthwindWeb.dll
 C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\obj\Debug\netcoreapp3.0\NorthwindWeb.pdb
 C:\Users\gcerezo\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\obj\Debug\netcoreapp3.0\NorthwindWeb.genruntimeconfig.cache
+D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.0\NorthwindEmployees.Views.dll
+D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.0\NorthwindEmployees.Views.pdb
+D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.0\NorthwindEmployees.dll
+D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\bin\Debug\netcoreapp3.0\NorthwindEmployees.pdb
+D:\workspace\cs8dotnetcore3-willy\PracticalApps\NorthwindWeb\obj\Debug\netcoreapp3.0\NorthwindWeb.MvcApplicationPartsAssemblyInfo.cs

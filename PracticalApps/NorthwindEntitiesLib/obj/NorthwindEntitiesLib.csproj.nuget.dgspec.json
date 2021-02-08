@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {}
+    "D:\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
+    "D:\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+        "projectUniqueName": "D:\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
         "projectName": "NorthwindEntitiesLib",
-        "projectPath": "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
-        "packagesPath": "C:\\Users\\gcerezo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gcerezo\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\obj\\",
+        "projectPath": "D:\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+        "packagesPath": "C:\\Users\\wilfa\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace\\cs8dotnetcore3-willy\\PracticalApps\\NorthwindEntitiesLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\gcerezo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wilfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
