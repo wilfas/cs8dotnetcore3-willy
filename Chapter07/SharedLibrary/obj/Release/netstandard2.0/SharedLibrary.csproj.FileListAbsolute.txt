@@ -1,9 +1,0 @@
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.deps.json
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.dll
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.pdb
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csprojAssemblyReference.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfo.cs
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.dll
-D:\workspace\cs8dotnetcore3-willy\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.pdb

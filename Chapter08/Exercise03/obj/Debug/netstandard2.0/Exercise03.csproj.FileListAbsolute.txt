@@ -1,9 +1,0 @@
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\bin\Debug\netstandard2.0\Exercise03.deps.json
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\bin\Debug\netstandard2.0\Exercise03.dll
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\bin\Debug\netstandard2.0\Exercise03.pdb
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\obj\Debug\netstandard2.0\Exercise03.csprojAssemblyReference.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\obj\Debug\netstandard2.0\Exercise03.AssemblyInfoInputs.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\obj\Debug\netstandard2.0\Exercise03.AssemblyInfo.cs
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\obj\Debug\netstandard2.0\Exercise03.csproj.CoreCompileInputs.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\obj\Debug\netstandard2.0\Exercise03.dll
-D:\workspace\cs8dotnetcore3-willy\Chapter08\Exercise03\obj\Debug\netstandard2.0\Exercise03.pdb

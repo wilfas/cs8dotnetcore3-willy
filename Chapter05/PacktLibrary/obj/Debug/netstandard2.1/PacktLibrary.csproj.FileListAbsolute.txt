@@ -1,9 +1,0 @@
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.deps.json
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.dll
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.pdb
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.csprojAssemblyReference.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfoInputs.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfo.cs
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.csproj.CoreCompileInputs.cache
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.dll
-D:\workspace\cs8dotnetcore3-willy\Chapter05\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.pdb
