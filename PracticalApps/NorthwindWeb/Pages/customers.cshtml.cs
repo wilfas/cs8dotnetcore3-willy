@@ -7,8 +7,6 @@ namespace NorthwindWeb.Pages
 {
     public class CustomersModel : PageModel
     {
-        public IEnumerable<string> Customers { get; set; }
-
         private Northwind db;
 
         public CustomersModel(Northwind injectedContext)
@@ -16,11 +14,16 @@ namespace NorthwindWeb.Pages
             db = injectedContext;
         }
 
+        public ILookup<string, Customer> Customers { get; set; }
+
         public void OnGet()
         {
             ViewData["Title"] = "Northwind Web Site - Customers";
 
-            Customers = db.Customers.Select(c => c.CompanyName);
+            Customers = db.Customers
+                .OrderBy(customer => customer.Country)
+                .ThenBy(customer => customer.CompanyName)
+                .ToLookup(customer => customer.Country);
         }
     }
 }
