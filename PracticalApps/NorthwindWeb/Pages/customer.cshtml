@@ -1,0 +1,16 @@
+@page
+@using Packt.Shared
+@model NorthwindWeb.Pages.CustomerModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1 class="display-2">@Model.Customer.CompanyName</h1>
+<ul>
+    <li>Contact: @Model.Customer.ContactName</li>
+    <li>Address: @Model.Customer.Address</li>
+</ul>
+<h2>Orders</h2>
+<ul>
+    @foreach (Order order in @Model.Customer.Orders)
+    {
+        <li>@order.OrderID @order.OrderDate</li>
+    }
+</ul>

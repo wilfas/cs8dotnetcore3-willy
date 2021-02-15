@@ -1,19 +1,21 @@
 @page
 @using Packt.Shared
 @model NorthwindWeb.Pages.CustomersModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1 class="display-2">Customers</h1>
 <div class="row">
-    <h1 class="display-2">Customers</h1>
-    <table class="table">
-        <thead class="thead-inverse">
-            <tr><th>Company Name</th></tr>
-        </thead>
-        <tbody>
-            @foreach (IGrouping<string, Customer> country in Model.Customers)
-            {
-                <tr>
-                    <td>@country.Key</td>
-                </tr>
+@foreach (IGrouping<string, Customer> country in Model.Customers)
+{
+    <div class="col-sm-3">
+        <div class="card border-dark mb-3" style="max-width: 18rem;">
+            <div class="card-header">@country.Key</div>
+            <div class="card-body text-dark">
+            @foreach (var customer in country)
+            { 
+                <p><a asp-page="customer" asp-route-id="@customer.CustomerID">@customer.CompanyName</a></p>
             }
-        </tbody>
-    </table>
+            </div>
+        </div>
+    </div>
+}
 </div>
