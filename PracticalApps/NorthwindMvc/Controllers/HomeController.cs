@@ -63,6 +63,14 @@ namespace NorthwindMvc.Controllers
             return View(model);
         }
 
+
+        public IActionResult CategoryDetail(int? id)
+        {
+            var model = db.Categories.SingleOrDefault(c => c.CategoryID == id);
+            
+            return View(model);
+        }
+
         public IActionResult ModelBinding()
         {
             return View();
