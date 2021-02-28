@@ -16,6 +16,9 @@ using Microsoft.EntityFrameworkCore;
 using Packt.Shared;
 using static System.Console;
 using Microsoft.AspNetCore.Mvc.Formatters;
+using NorthwindService.Repositories;
+using Swashbuckle.AspNetCore.Swagger;
+using Swashbuckle.AspNetCore.SwaggerUI;
 
 namespace NorthwindService
 {
@@ -31,6 +34,8 @@ namespace NorthwindService
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
+            
             string databasePath = Path.Combine("..", "Northwind.db");
 
             services.AddDbContext<Northwind>(options => options.UseSqlite($"Data Source={databasePath}"));
@@ -62,6 +67,8 @@ namespace NorthwindService
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "NorthwindService", Version = "v1" });
             });
+
+            services.AddScoped<ICustomerRepository, CustomerRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -78,11 +85,25 @@ namespace NorthwindService
 
             app.UseRouting();
 
+            app.UseCors(configurePolicy: options => {
+                options.WithMethods("GET","POST","PUT","DELETE");
+                options.WithOrigins("https://localhost:5002");
+            });
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(options =>
+            {
+                options.SwaggerEndpoint("/swagger/v1/swagger.json", "Northwind Service API Version 1");
+
+                options.SupportedSubmitMethods(new[]{SubmitMethod.Get, SubmitMethod.Post, SubmitMethod.Put, SubmitMethod.Delete});
             });
         }
     }
