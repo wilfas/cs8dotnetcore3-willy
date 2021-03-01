@@ -145,5 +145,42 @@ namespace NorthwindMvc.Controllers
 
             return View(model);
         }
+
+        public async Task<IActionResult> Customer(string customerID)
+        {
+            string uri;
+            
+            if (string.IsNullOrEmpty(customerID))
+            {
+                return NotFound("Introduce un ID");
+            }
+            else
+            {
+                ViewData["Title"] = $"Customer with ID {customerID}";
+                uri = $"api/customers/{customerID}";
+            }
+            
+            var client = clientFactory.CreateClient(name: "NorthwindService");
+            var request = new HttpRequestMessage(method: HttpMethod.Get, requestUri: uri);
+
+            HttpResponseMessage response = await client.SendAsync(request);
+
+            string jsonString = await response.Content.ReadAsStringAsync();
+            
+            Customer model = JsonConvert.DeserializeObject<Customer>(jsonString);
+            
+            return View(model);
+        }
+
+        public async Task<IActionResult> DeletedCustomer(string id)
+        {
+            string uri = $"api/customers/{id}";
+            var client = clientFactory.CreateClient(name: "NorthwindService");
+            var request = new HttpRequestMessage(method: HttpMethod.Delete, requestUri: uri);
+
+            HttpResponseMessage response = await client.SendAsync(request);
+            
+            return Ok(response.Content);  
+        }
     }
 }

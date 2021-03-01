@@ -19,6 +19,8 @@ using Microsoft.AspNetCore.Mvc.Formatters;
 using NorthwindService.Repositories;
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerUI;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Routing;
 
 namespace NorthwindService
 {
@@ -69,6 +71,8 @@ namespace NorthwindService
             });
 
             services.AddScoped<ICustomerRepository, CustomerRepository>();
+
+            services.AddHealthChecks().AddDbContextCheck<Northwind>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -92,6 +96,21 @@ namespace NorthwindService
 
             app.UseAuthorization();
 
+            app.Use(next => (context) =>
+            {
+                var endpoint = context.GetEndpoint();
+
+                if (endpoint != null)
+                {
+                    WriteLine("*** Name: {0}; Route: {1}; Metadata: {2}",
+                        arg0: endpoint.DisplayName,
+                        arg1: (endpoint as RouteEndpoint)?.RoutePattern,
+                        arg2: string.Join(", ", endpoint.Metadata));
+                }
+
+                return next(context);
+            });
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
@@ -105,6 +124,8 @@ namespace NorthwindService
 
                 options.SupportedSubmitMethods(new[]{SubmitMethod.Get, SubmitMethod.Post, SubmitMethod.Put, SubmitMethod.Delete});
             });
+
+            app.UseHealthChecks(path: "/howdoyoufeel");
         }
     }
 }
